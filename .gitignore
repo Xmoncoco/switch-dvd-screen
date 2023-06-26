@@ -1,0 +1,5 @@
+/.vscode
+/build
+/test-dvd.elf
+/test-dvd.nacp
+/test-dvd.nro
